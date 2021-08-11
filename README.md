@@ -1,6 +1,8 @@
 [![cisco211's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisco211&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![cisco211's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisco211&show_icons=true&layout=compact&theme=dark&count_private=true&langs_count=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 [![cisco211's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=cisco211)](https://github.com/anuraghazra/github-readme-stats)
