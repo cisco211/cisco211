@@ -1,4 +1,4 @@
-[![cisco211's GitHub stats](https://github-readme-stats.vercel.app/api?username=cisco211&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![cisco211's GitHub stats](https://github-readme-stats.vercel.app/api?username=cisco211&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
